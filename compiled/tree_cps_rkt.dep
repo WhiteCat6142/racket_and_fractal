@@ -1,0 +1,1 @@
+("7.4" racket ("f1cce4fdaab8604947f45e36662e23cdc7fb344f" . "6487174502c0c5e6414f94b1693dc8229f381e8c") (collects #"graphics" #"turtles.rkt") (collects #"racket" #"control.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
